@@ -1,8 +1,16 @@
 [Home](..)
 
+# उपयोगीनि उपकरणानि
+
+* http://ashtadhyayi.com (सूत्रपाठः, धातुपाठः, गणपाठः, कोषाः)
+* http://sanskritsahitya.org (काव्यसङ्ग्रहः, अन्वेषाणादिसौकर्यम्)
+
 # सन्दर्भग्रन्थाः
 
 ## कादम्बरी
+
+* [चन्द्रकला](https://archive.org/details/KadambariKathamukha/page/n17/mode/1up) (आचार्य रेग्मी । चौखम्बा)
+* [भावबोधिनी](https://archive.org/details/kadambari-edited-by-jay-shankar-lal-tripathi-krishna-das-accademy-varanasi/page/n58/mode/1up)(Krishnadas Academy)
 
 ## काव्यप्रकाशः
 
@@ -11,7 +19,9 @@
 ## रसगङ्गाधरः
 
 * [चन्द्रिका](https://archive.org/details/vzko_rasagangadhara-part-1-chandrika-commentary-badarinath-jha-madan-mohan-jha-b/page/n55/mode/1up)
-* [मर्मप्रकाशः](https://archive.org/details/in.ernet.dli.2015.242170/page/n15/mode/1up) (नागेशभट्टानाम् । निर्णयसागरसंस्करणम्)
+* [मर्मप्रकाशः](https://archive.org/details/in.ernet.dli.2015.242170/page/n15/mode/1up) (नागेशभट्टः । निर्णयसागरसंस्करणम्)
 
 ## ध्वन्यालोकः
+
+* [लोचनम्](https://archive.org/details/dhvanyalokalocanaofabhinavaguptaed.gangasagarraichowkambha/page/n35/mode/2up) (अभिनवगुप्ता)
 
